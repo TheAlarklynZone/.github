@@ -18,7 +18,7 @@ Alarkius is active on Reddit, YouTube, Discord, and also has his own LinkedIn </
 ---
 
 ## Current Apps in the Making
-All Apps here will have the Apache 3.0 License
+All Apps here will have the Apache 2.0 License
 
 ### Quillosofi - An All-in-One Writing App Free of Distractions
 
