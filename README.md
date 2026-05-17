@@ -6,13 +6,11 @@ WHAT ARE YOU DOIING HERE?!
 
 This is just a organization profile hub. 
 
-Nothing fancy here.
-
-Maybe.
+Nothing fancy here. Maybe.
 
 Ok. So I may or may have not created an inator. 
 
-#### An **Organization-Maker-Inator-3000!!!!!**
+### An **Organization-Maker-Inator-3000!!!!!**
 
 Perry the Platypus. Don't look at me like that! 
 
